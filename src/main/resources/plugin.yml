@@ -1,0 +1,6 @@
+name: OneToTwoV1.21
+version: '2.3421'
+main: io.github.moregrayner.oneToTwoV121.OneToTwoV121
+api-version: '1.21'
+authors: [ 짱레인 ]
+description: 윈터오브짱레인
